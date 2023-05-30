@@ -1,0 +1,17 @@
+.task-text {
+  text-decoration: none;
+}
+
+.task-text.completed {
+  text-decoration: line-through;
+}
+
+.li-text {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.li-text.completed {
+  text-decoration: line-through;
+  cursor: pointer;
+}
